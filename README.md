@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project explores the application of reinforcement learning techniques—**SARSA**, **Expected SARSA**, and **Q-Learning**—to develop an intelligent agent that can efficiently play the game of Battleship. The core focus is on minimizing the number of moves required to sink all ships, thereby improving strategic decision-making over time.
+This project explores the application of reinforcement learning techniques, **SARSA**, **Expected SARSA**, and **Q-Learning** to develop an intelligent agent that can efficiently play the game of Battleship. The core focus is on minimizing the number of moves required to sink all ships, thereby improving strategic decision-making over time.
 
 ## Objective
 
